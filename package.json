@@ -6,4 +6,8 @@
   "author": "ina-amagami <ina@amagamina.jp>",
   "license": "MIT",
   "dependencies": {}
+  "vpmDependencies": {
+    "com.vrchat.base": "^3.6.1",
+    "com.vrchat.worlds": "^3.6.1"
+  }
 }
